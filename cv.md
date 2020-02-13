@@ -16,7 +16,7 @@ in your choice every day.*
 Python `
 
 ## Code examples:
-https://github.com/annakisel
+[My own GitHub account](https://github.com/annakisel)
 
 ## Experience:
 
@@ -60,7 +60,7 @@ An application for health clubs in Unites States.
 `ES6, TypeScript, ReactJS, Redux, redux-forms, webpack, Git`
 
 ## Education
-Belarusian State University, Faculty of Applied Mathematics and Computer Science, 2020
+Belarusian State University, Faculty of Applied Mathematics and Computer Science, 2020.
 
 ## English
 Level: Intermediate (B1).
