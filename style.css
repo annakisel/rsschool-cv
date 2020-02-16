@@ -16,3 +16,13 @@ body {
 .project-name {
     color: gray;
 }
+
+.contacts {
+    display: flex;
+    flex-direction: row;
+}
+
+.me-photo {
+    margin: 0 4rem;
+    height: 15rem;
+}
